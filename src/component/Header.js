@@ -18,7 +18,7 @@ export const Header = () => {
             <h2 id="heading">EXPENSE TRACKER</h2>
         </div> 
         <div className='time'>
-                <h5>{Time}</h5>
+                <h5>{ctime}</h5>
             </div>
         </>
     )
