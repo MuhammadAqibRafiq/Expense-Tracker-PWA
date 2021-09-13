@@ -18,17 +18,17 @@ LIVE LINK : https://pwa-expensetracker.netlify.app/
   SCREENSHOT
 </h1>
 
-<h1>DESKTOP</h1>
+<h1>PWA RESULT</h1>
   
-<!--    <img src="https://github.com/MuhammadAqibRafiq/Virtuall-Lolly-Jamstack/blob/main/static/desktop2.png" width="1000" />
+  <img src="https://github.com/MuhammadAqibRafiq/Expense-Tracker-PWA/blob/main/static/PWA.png" width="1000" />
    
-   <img src="https://github.com/MuhammadAqibRafiq/Virtuall-Lolly-Jamstack/blob/main/static/desktop1.png" width="1000" /> -->
+  
    
 
-<h1>MOBILE</h1>
-
-<!--    <img src="https://github.com/MuhammadAqibRafiq/Virtuall-Lolly-Jamstack/blob/main/static/mobile.jpeg" width="300"  height="650" />
- -->
+<h1>DESKTOP</h1>
+<h1 align="center">
+   <img src="https://github.com/MuhammadAqibRafiq/Expense-Tracker-PWA/blob/main/static/sc.png" width="450"  height="650" />
+</h1>
 4.  **USED TECH**
 
     - NETLIFY 
